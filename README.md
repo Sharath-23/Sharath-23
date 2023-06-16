@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharath B
 - 👀 I’m interested in Web Development, AI & ML, & Game Development
-- 🌱 I’m currently learning C++, Java 
+- 🌱 I’m currently learning C++, Java and Web Technologies like HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
